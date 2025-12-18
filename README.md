@@ -2,6 +2,7 @@
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=black)
 ![](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black)
+![](https://img.shields.io/badge/GO-3bc4f6?style=for-the-badge&logo=go&logoColor=black) 
 ![](https://img.shields.io/badge/Rust-00599C?style=for-the-badge&logo=rust&logoColor=black)
 ![](https://img.shields.io/badge/Pawn-00599C?style=for-the-badge&logo=accenture&logoColor=black)
 ![](https://img.shields.io/badge/asm-A100FF?style=for-the-badge&logo=accenture&logoColor=white)
