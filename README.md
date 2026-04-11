@@ -93,7 +93,7 @@
 </td>
 <td align="center" style="border:none;padding:4px 10px;">
 <span style="display:inline-block;width:60px;height:60px;background-color:#242938;border-radius:12px;line-height:60px;text-align:center;">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@11.15.0/icons/manjaro.svg" width="36" height="36" alt="Manjaro Linux" style="vertical-align:middle;" />
+<img src="https://cdn.simpleicons.org/manjaro/35BF5C" width="36" height="36" alt="Manjaro Linux" style="vertical-align:middle;" />
 </span>
 </td>
 <td align="center" style="border:none;padding:4px 10px;">
