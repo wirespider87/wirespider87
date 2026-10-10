@@ -64,7 +64,7 @@
 </td>
 <td align="center" style="padding:4px 6px;border:none;">
 <span style="display:inline-block;width:60px;height:60px;background-color:#242938;border-radius:12px;line-height:60px;text-align:center;">
-<img src="https://api.iconify.design/mdi/cpu-64-bit.svg?color=%23ffffff" width="34" height="34" alt="Assembly" style="vertical-align:middle;" />
+<img src="https://cdn.simpleicons.org/rust/ffffff" width="36" height="36" alt="Rust" style="vertical-align:middle;" />
 </span>
 </td>
 </tr>
@@ -74,7 +74,7 @@
 <td align="center" style="border:none;padding-top:6px;"><sub>Java</sub></td>
 <td align="center" style="border:none;padding-top:6px;"><sub>C++</sub></td>
 <td align="center" style="border:none;padding-top:6px;"><sub>Pawn</sub></td>
-<td align="center" style="border:none;padding-top:6px;"><sub>ASM</sub></td>
+<td align="center" style="border:none;padding-top:6px;"><sub>Rust</sub></td>
 </tr>
 </table>
 
